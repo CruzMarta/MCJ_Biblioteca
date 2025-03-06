@@ -2,7 +2,12 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-
+/**
+ * Test unitarios para la clase Libro
+ * @see Libro
+ * @author Marta Cruz
+ * @version 6.3.2025
+ */
 class LibroTest {
  Libro libro;
     @BeforeEach

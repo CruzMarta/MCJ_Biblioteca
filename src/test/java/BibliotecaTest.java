@@ -21,6 +21,13 @@ class BibliotecaTest {
         assertTrue(biblioteca.agregarLibro(libro));
     }
 
+    /**
+     * Test unitarios para la clase Biblioteca
+     * @see Biblioteca
+     * @author Marta Cruz
+     * @version 6.3.2025
+     */
+
     @Test
     void eliminarLibro() {
         biblioteca.agregarLibro(libro);

@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cab6aed4-7f0d-442f-9be4-802f28ad0c0e" name="Changes" comment="UPDATE: se documentan las clases Libro y Biblioteca">
-      <change afterPath="$PROJECT_DIR$/src/test/java/BibliotecaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LibroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Biblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Biblioteca.java" afterDir="false" />
+    <list default="true" id="cab6aed4-7f0d-442f-9be4-802f28ad0c0e" name="Changes" comment="UPDATE: se realizan los test unitarios">
+      <change beforePath="$PROJECT_DIR$/src/test/java/BibliotecaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BibliotecaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LibroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LibroTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741280976462</updated>
       <workItem from="1741280978159" duration="1871000" />
-      <workItem from="1741282954090" duration="2141000" />
+      <workItem from="1741282954090" duration="2548000" />
     </task>
     <task id="LOCAL-00001" summary="ADD: se crea el repositorio en gitHub con la estructura de la prueba">
       <option name="closed" value="true" />
@@ -191,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741283426480</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="UPDATE: se realizan los test unitarios">
+      <option name="closed" value="true" />
+      <created>1741285267477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741285267477</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +207,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ADD: se crea el repositorio en gitHub con la estructura de la prueba" />
     <MESSAGE value="UPDATE: se documentan las clases Libro y Biblioteca" />
-    <option name="LAST_COMMIT_MESSAGE" value="UPDATE: se documentan las clases Libro y Biblioteca" />
+    <MESSAGE value="UPDATE: se realizan los test unitarios" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATE: se realizan los test unitarios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
