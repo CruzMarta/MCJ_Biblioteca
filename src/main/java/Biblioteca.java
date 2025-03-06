@@ -51,7 +51,6 @@ import java.util.List;
         }
 
         // TODO: Documentar este método
-
         /**
          * Metodo para obtener la lista de todos los libros de la biblioteca
          *
@@ -64,7 +63,6 @@ import java.util.List;
         // TODO: Documentar este método.
         //  Test 01: buscar libro existente y comprobar que lo localiza.
         //  Test 02: buscar libro NO existente y comprobar que no lo localiza.
-
         /**
          * Metodo para buscar un libro por su titulo
          *
