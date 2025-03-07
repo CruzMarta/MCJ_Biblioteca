@@ -4,9 +4,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cab6aed4-7f0d-442f-9be4-802f28ad0c0e" name="Changes" comment="UPDATE: se realizan los test unitarios">
-      <change beforePath="$PROJECT_DIR$/src/test/java/BibliotecaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BibliotecaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LibroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LibroTest.java" afterDir="false" />
+    <list default="true" id="cab6aed4-7f0d-442f-9be4-802f28ad0c0e" name="Changes" comment="UPDATE: push de carpeta docs">
+      <change afterPath="$PROJECT_DIR$/docs/Biblioteca.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BibliotecaTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Libro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/LibroTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/class-use/Biblioteca.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/class-use/BibliotecaTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/class-use/Libro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/class-use/LibroTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/dejavufonts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSans-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSans-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSans-BoldOblique.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSans-BoldOblique.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSans-Oblique.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSans-Oblique.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSans.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSans.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSansMono-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSansMono-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSansMono-BoldOblique.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSansMono-BoldOblique.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSansMono-Oblique.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSansMono-Oblique.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSansMono.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSansMono.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSerif-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSerif-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSerif-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSerif-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSerif-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSerif-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSerif.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/DejaVuLGCSerif.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/fonts/dejavu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resource-files/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-files/jquery-3.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-files/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-files/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-files/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-files/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/type-search-index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +234,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741280976462</updated>
       <workItem from="1741280978159" duration="1871000" />
-      <workItem from="1741282954090" duration="2548000" />
+      <workItem from="1741282954090" duration="3348000" />
     </task>
     <task id="LOCAL-00001" summary="ADD: se crea el repositorio en gitHub con la estructura de la prueba">
       <option name="closed" value="true" />
@@ -198,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741285267477</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="UPDATE: se genera Javadoc">
+      <option name="closed" value="true" />
+      <created>1741285592463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741285592463</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,7 +286,9 @@
     <MESSAGE value="ADD: se crea el repositorio en gitHub con la estructura de la prueba" />
     <MESSAGE value="UPDATE: se documentan las clases Libro y Biblioteca" />
     <MESSAGE value="UPDATE: se realizan los test unitarios" />
-    <option name="LAST_COMMIT_MESSAGE" value="UPDATE: se realizan los test unitarios" />
+    <MESSAGE value="UPDATE: se genera Javadoc" />
+    <MESSAGE value="UPDATE: push de carpeta docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATE: push de carpeta docs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
